@@ -1,2 +1,2 @@
 # Calculator-Fardeen
-This is Streamlit Calculator developed by Fardeen
+This is Streamlit Calculator developed by Fardeen Tariq
