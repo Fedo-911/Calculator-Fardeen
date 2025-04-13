@@ -1,3 +1,4 @@
+# CALCULATOR CODE
 import streamlit as st
 
 st.set_page_config(page_title="Streamlit Calculator", layout="centered")
